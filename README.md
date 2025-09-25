@@ -1,5 +1,7 @@
 ### Hey, I'm Tomm !
 
->Student at the engineering school of Le Mans (France).
+>Software engineer passionnate about web technologies
 >
->Creating things with my friends.
+>Check my [portfolio](https://tjobit.github.io/tjobit-portfolio/) !
+>
+>Love to create things with my friends.
