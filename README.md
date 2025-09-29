@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236A5ACD.svg?logo=google-chrome&logoColor=white)](https://tjobit.github.io/tjobit-portfolio/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tjobit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tjobit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tommjobit@live.fr) 
 
 # 💻 Tech Stack:
