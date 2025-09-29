@@ -1,6 +1,6 @@
 ### Hey, I'm Tomm !
 
->Software engineer passionnate about web technologies
+>Fullstack software engineer passionnate about web technologies
 >
 >Check my [portfolio](https://tjobit.github.io/tjobit-portfolio/) !
 >
