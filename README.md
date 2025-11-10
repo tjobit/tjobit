@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Tomm!  <br>💻 Passionate freelance fullstack software engineer interested in web development.  <br>🚀 I love exploring new technologies, solving problems, and building projects with my friends.  <br>🌱 Always learning, always curious.  <br>
+👋 Hi, I’m Tomm!  <br>💻 Passionate fullstack software engineer interested in web development.  <br>🚀 I love exploring new technologies, solving problems, and building projects with my friends.  <br>🌱 Always learning, always curious.  <br>
 
 
 ## 🌐 Socials:
